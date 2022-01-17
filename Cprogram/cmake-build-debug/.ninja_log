@@ -1,0 +1,19 @@
+# ninja log v5
+4	133	6635187511589325	CMakeFiles/Cprogram-main.dir/main.c.obj	f834dffb8dfccb6a
+0	495	6631785822107706	CMakeFiles/8.5-P5_PFunc.dir/Pointer/8.5/P5_PFunc.c.obj	5885dc737c5a7361
+0	414	6631791721402417	CMakeFiles/8.1-P1.dir/Pointer/8.1/P1.c.obj	7528f6835a71008a
+517	1013	6631785826668351	8.5-P5_PFunc.exe	6f798dbeb6ef3b3a
+4	174	6632627502679586	CMakeFiles/8.8-P8_Dma.dir/Pointer/8.8/P8_Dma.c.obj	f9e34933ee42199b
+175	336	6632627504235421	8.8-P8_Dma.exe	661f36ebcdd122f
+157	324	6632238016873937	Struct-S1_as.exe	a76ffcefd4edf0b6
+2	193	6633134810407614	CMakeFiles/8.3-P4_Dyadic_1.dir/Pointer/8.3/P4_Dyadic_1.c.obj	f1291c6021212d6f
+194	474	6633134812125954	8.3-P4_Dyadic_1.exe	cfbc6278fd38d2e0
+2	180	6633244445604549	CMakeFiles/Exercises-p1.dir/Pointer/Exercises/p1.c.obj	621843aee2bb3eb3
+182	550	6633244447843543	Exercises-p1.exe	d06c6787b95fa022
+2	204	6633264391502702	CMakeFiles/Exercises-p2.dir/Pointer/Exercises/p2.c.obj	cd392aa03ce2572f
+205	554	6633264393298547	Exercises-p2.exe	abd436e1b86d48a6
+133	284	6635187513151843	Cprogram-main.exe	27a8a86beeabdab1
+2	164	6637781791593354	CMakeFiles/Struct-S1_Init.dir/Struct/S1_Init.c.obj	d1396829fe2bf5cc
+164	312	6637781793025846	Struct-S1_Init.exe	6eec00c359c272cb
+3	183	6638667283933439	CMakeFiles/Struct-S2_StrArr.dir/Struct/S2_StrArr.c.obj	a3401ab4738a80fc
+184	476	6638667285894759	Struct-S2_StrArr.exe	6182283b10545424

@@ -1,0 +1,34 @@
+"D:\CodeTools\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CodeTools/CLion 2021.3.2/bin/ninja/win/ninja.exe" -G Ninja J:\Cprogram
+-- The C compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/CodeTools/CLion 2021.3.2/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+    -- src/8.1-P1.c will be compiled to bin/8.1-P1
+    -- src/8.1-P2.c will be compiled to bin/8.1-P2
+    -- src/8.2-P3_1_maxmin.c will be compiled to bin/8.2-P3_1_maxmin
+    -- src/8.2-P3_Fun.c will be compiled to bin/8.2-P3_Fun
+    -- src/8.3-P4_2_maopao.c will be compiled to bin/8.3-P4_2_maopao
+    -- src/8.3-P4_Arr.c will be compiled to bin/8.3-P4_Arr
+    -- src/8.3-P4_DyadicArr.c will be compiled to bin/8.3-P4_DyadicArr
+    -- src/8.3-P4_Dyadic_1.c will be compiled to bin/8.3-P4_Dyadic_1
+    -- src/8.3-p4_1_funarr.c will be compiled to bin/8.3-p4_1_funarr
+    -- src/8.4-P5_1_copystr.c will be compiled to bin/8.4-P5_1_copystr
+    -- src/8.4-P5_Str.c will be compiled to bin/8.4-P5_Str
+    -- src/8.5-P5_1FuncP.c will be compiled to bin/8.5-P5_1FuncP
+    -- src/8.5-P5_PFunc.c will be compiled to bin/8.5-P5_PFunc
+    -- src/8.6-P6_Return_PV_fun.c will be compiled to bin/8.6-P6_Return_PV_fun
+    -- src/8.7-P7_PArr.c will be compiled to bin/8.7-P7_PArr
+    -- src/8.7-P7_PMain.c will be compiled to bin/8.7-P7_PMain
+    -- src/8.7-P7_PSArr.c will be compiled to bin/8.7-P7_PSArr
+    -- src/8.8-P8_Dma.c will be compiled to bin/8.8-P8_Dma
+    -- src/Exercises-p1.c will be compiled to bin/Exercises-p1
+    -- src/Exercises-p2.c will be compiled to bin/Exercises-p2
+    -- src/Struct-S1_Init.c will be compiled to bin/Struct-S1_Init
+    -- src/Struct-S2_StrArr.c will be compiled to bin/Struct-S2_StrArr
+    -- src/CompilerIdC-CMakeCCompilerId.c will be compiled to bin/CompilerIdC-CMakeCCompilerId
+    -- src/Cprogram-main.c will be compiled to bin/Cprogram-main
+-- Configuring done
+-- Generating done
+-- Build files have been written to: J:/Cprogram/cmake-build-debug

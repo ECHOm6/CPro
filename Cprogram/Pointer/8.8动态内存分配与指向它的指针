@@ -1,0 +1,16 @@
+#建立内存动态分配
+#注意：void *型，为指向"不确定"类型,为纯地址，不可用于内存存取
+##malloc函数开辟动态存储区
+###void *malloc(unsigned int size)
+###例：malloc(100)
+    ---
+##calloc函数开辟动态存储区
+###void *calloc(unsigned n,unsigned size)
+###例：p=calloc(50,4)
+    ---
+##realloc函数 重新分配 动态存储区
+###void *realloc(void *p,unsigned int size)
+###例：realloc(p,10)
+    ---
+##free函数释放动态存储区
+###void free(void *p)

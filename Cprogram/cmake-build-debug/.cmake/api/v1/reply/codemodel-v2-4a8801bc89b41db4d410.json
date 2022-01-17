@@ -1,0 +1,267 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Cprogram",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "8.1-P1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.1-P1-Debug-32ae99388781c33ea39c.json",
+					"name" : "8.1-P1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.1-P2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.1-P2-Debug-ab0ea6b5aa00a0bdda6a.json",
+					"name" : "8.1-P2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.2-P3_1_maxmin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.2-P3_1_maxmin-Debug-d7355c9078cce137980d.json",
+					"name" : "8.2-P3_1_maxmin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.2-P3_Fun::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.2-P3_Fun-Debug-d233589b16ec2c7d53e6.json",
+					"name" : "8.2-P3_Fun",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.3-P4_2_maopao::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.3-P4_2_maopao-Debug-0ce89183ca27e9615fff.json",
+					"name" : "8.3-P4_2_maopao",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.3-P4_Arr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.3-P4_Arr-Debug-1a374afb1b115886744f.json",
+					"name" : "8.3-P4_Arr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.3-P4_DyadicArr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.3-P4_DyadicArr-Debug-d4aba918f69b8695f51f.json",
+					"name" : "8.3-P4_DyadicArr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.3-P4_Dyadic_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.3-P4_Dyadic_1-Debug-1dd0a0f72bb91e720e3d.json",
+					"name" : "8.3-P4_Dyadic_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.3-p4_1_funarr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.3-p4_1_funarr-Debug-2e022936ed85dc2c6be9.json",
+					"name" : "8.3-p4_1_funarr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.4-P5_1_copystr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.4-P5_1_copystr-Debug-517cba8dd80e7f10b409.json",
+					"name" : "8.4-P5_1_copystr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.4-P5_Str::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.4-P5_Str-Debug-d3c7fdb4e6654b4313df.json",
+					"name" : "8.4-P5_Str",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.5-P5_1FuncP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.5-P5_1FuncP-Debug-5cc6b9ad16310ee529c0.json",
+					"name" : "8.5-P5_1FuncP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.5-P5_PFunc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.5-P5_PFunc-Debug-b91b2901251a6ec75ebc.json",
+					"name" : "8.5-P5_PFunc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.6-P6_Return_PV_fun::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.6-P6_Return_PV_fun-Debug-3cf474a73c19c7c7bfaa.json",
+					"name" : "8.6-P6_Return_PV_fun",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.7-P7_PArr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.7-P7_PArr-Debug-0fb606134bf1b446b6d9.json",
+					"name" : "8.7-P7_PArr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.7-P7_PMain::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.7-P7_PMain-Debug-1838bd6ce25b860b950b.json",
+					"name" : "8.7-P7_PMain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.7-P7_PSArr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.7-P7_PSArr-Debug-90c353386e43666de41d.json",
+					"name" : "8.7-P7_PSArr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.8-P8_Dma::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.8-P8_Dma-Debug-2c0b5f6ee23e019c4ce4.json",
+					"name" : "8.8-P8_Dma",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CompilerIdC-CMakeCCompilerId::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CompilerIdC-CMakeCCompilerId-Debug-92cfe1cfe703f832afcc.json",
+					"name" : "CompilerIdC-CMakeCCompilerId",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cprogram-main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cprogram-main-Debug-a52208443fd965b6446d.json",
+					"name" : "Cprogram-main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercises-p1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercises-p1-Debug-83cd84d2dd6a421b99d4.json",
+					"name" : "Exercises-p1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercises-p2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercises-p2-Debug-3269ed304381f760273b.json",
+					"name" : "Exercises-p2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Struct-S1_Init::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Struct-S1_Init-Debug-45e9a3ab05f4bf2e482b.json",
+					"name" : "Struct-S1_Init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Struct-S2_StrArr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Struct-S2_StrArr-Debug-ddcb1151040844f8d4e7.json",
+					"name" : "Struct-S2_StrArr",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "J:/Cprogram/cmake-build-debug",
+		"source" : "J:/Cprogram"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
